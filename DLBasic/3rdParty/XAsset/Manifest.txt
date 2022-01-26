@@ -1,0 +1,10 @@
+manifest:
+	Assets/DLBasic/3rdParty/XAsset/Manifest.txt
+
+gameassets/gameres/music/assets/gameres/music_1:
+	Assets/GameRes/Music/Game_Roulette_Exit.wav
+
+gameassets/gameres/prefabs/assets/gameres/prefabs_2:
+	Assets/GameRes/Images/head.png
+	Assets/GameRes/Prefabs/UIMain.prefab
+

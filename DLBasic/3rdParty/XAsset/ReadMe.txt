@@ -1,0 +1,1 @@
+Rules.txt 中图片资源不可以bundle以使用的图片，不可重复。不可以出现share
